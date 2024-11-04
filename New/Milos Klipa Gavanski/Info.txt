@@ -1,0 +1,76 @@
+----------Personal Details----------
+
+-Name: Milos Klipa
+-Surname: Gavanski
+-DOB: 19.Sep.1993
+-Country: Serbia
+-City: Vrbas
+-Address: Oktobarska 12
+-Zip: 21460
+-Phone: +381 65 9919932 
+ 
+-----------ID Card Details----------
+
+DOI: 15.May.2016
+DOE: 15.May.2026
+Document no.: 466598652
+Personal no.: 1909993830064
+
+---------------Logins---------------
+ 
+Outlook:  milos.main@outlook.com
+Password: fFEJXgDe2NdBDX7
+
+Payoneer: milos.main@outlook.com
+Password: z9JTYBXdDxJXxeK
+
+---------------Website--------------
+
+milosklipagavanski.weebly.com
+
+--------------- MAC address --------
+
+3012A9D441BE
+
+--------------Bank Info-------------
+
+Holder Name: Milos Klipa
+Holder Surname: Gavanski
+IBAN: RS35160600000877674770
+SWIFT: DBDBRSBG
+Acc. no.: 160600000877674770
+Bank Name: Banca Intesa
+Type of Account: Personal
+Account Country: Serbia
+
+----------Security Questions--------
+
+Q: What was the name of your first pet?
+A: Lena
+
+Q: What is the first name of your grandfather?
+A: Djura
+
+Q: What is your grandfather's profession?
+A: Trader
+
+
+Holder name: Milos Klipa Gavanski
+
+Bank name: Citibank
+
+Bank address: 111 Wall Street New York, NY 10043 USA
+
+Routing (ABA): 031100209
+
+SWIFT code: CITIUS33
+
+Account number: 70589460001336354
+
+Account type: CHECKING
+
+
+
+
+
+
